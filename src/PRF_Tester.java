@@ -2,9 +2,9 @@ import java.util.Scanner;
 
 // TODO: Auto-generated Javadoc
 /**
- * The Class PPRF_Tester.
+ * The Class PRF_Tester.
  */
-public class PPRF_Tester {
+public class PRF_Tester {
 
 	/**
 	 * The main method.
@@ -30,6 +30,6 @@ public class PPRF_Tester {
 		int x = Integer.parseInt(xString);
 		int y = Integer.parseInt(yString);
 
-		System.out.println(PPRF.power(x, y));
+		System.out.println(PRF.power(x, y));
 	}
 }

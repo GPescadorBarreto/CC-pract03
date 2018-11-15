@@ -1,8 +1,8 @@
 // TODO: Auto-generated Javadoc
 /**
- * The Class PPRF.
+ * The Class PRF.
  */
-public class PPRF {
+public class PRF {
 	
 	/**
 	 * Zero.
