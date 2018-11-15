@@ -1,0 +1,4 @@
+This Java application implements primitive recursive functions to calculate the power of X to Y.
+
+To use it, you may include X and Y values' as execution arguments.
+In case there are no arguments, the program will request both values through the console.
